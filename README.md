@@ -3,7 +3,7 @@
 > 🧑‍💻 *Entusiasta apasionado de GNU/Linux y Desarrollador enfocado en el minimalismo y la eficiencia técnica* 🚀
 
 ## 👤 Sobre Mí
-> **Actualidad:** Profundizando en el desarrollo de interfaces con **[GTK4](https://www.gtk.org/)/[LibAdwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/)**, filosofía de diseño [**GNOME**](https://developer.gnome.org/hig/), la eficiencia moderna de [Solus](getsol.us) e [AerynOS](https://aerynos.com/) y aprendiendo sobre planificadores de kernels para mayor eficiencia mediante [**scx_scheds**](https://wiki.cachyos.org/configuration/sched-ext/). 🐦‍🔥
+> **Actualidad:** Profundizando en el desarrollo de interfaces con **[GTK4](https://www.gtk.org/)/[LibAdwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/)**, filosofía de diseño [**GNOME**](https://developer.gnome.org/hig/), la eficiencia moderna de [**Solus**](getsol.us) e [**AerynOS**](https://aerynos.com/) y aprendiendo sobre planificadores de kernels para mayor eficiencia mediante [**scx_scheds**](https://wiki.cachyos.org/configuration/sched-ext/). 🐦‍🔥
 
 | Eje | Configuración y Preferencias |
 | :--- | :--- |
