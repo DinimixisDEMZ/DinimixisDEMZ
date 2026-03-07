@@ -12,7 +12,6 @@
 | **🖼️ Interfaz** | [**GNOME**](https://gnome.org)(DE) + [**Niri**](https://github.com/niri-wm/niri)(WM) & [**Noctalia**](https://github.com/noctalia-dev) (quickshell)|
 | **📝 Editores** | [**CodeOSS**](https://github.com/code-oss-dev/code) (IDE) \| **[Neovim](https://neovim.io/) + [Neovide](https://neovide.dev/)** (Terminal IDE) \| ghostty & ptyxis (Terminal) \| **Apostrophe** (MD) |
 | **🎯 Intereses** | Evolución personal, FOSS, Música, Arte y **Geometry Dash** 😈 |
-| **🔍 Objetivos** | Rust, Planificadores y Simplificación |
 
 ## 💻 Tech Stack & Tools
 
@@ -42,11 +41,16 @@ Ofrezco apoyo técnico especializado y optimización en los siguientes ecosistem
 
 ---
 
-## 📖 Documentación & Manuales
+## 📖 Productos de mi persona
 *Actualmente organizando y subiendo guías técnicas profesionales:*
-* 🔥 **Solus:** [Repositorio especializado para usuarios de Solus.](https://github.com/DinimixisDEMZ/Custom-Solus-Repo)
+* 🔥 **Solus:** [Repositorio especializado para usuarios de Solus.](https://github.com/DinimixisDEMZ/Custom-Solus-Repo)    
+* 🚀 **Planificadores:** Una herramienta de gestión de planificadores de kernel que usa scxctl, sysbench y lógica en bash para optimización. [Profundo Desarrollo]
+
+<img width="900" height="900" alt="Captura desde 2026-02-08 15-11-55" src="https://github.com/user-attachments/assets/6a6f771f-7810-4db0-beba-d3cb9e7ae9ec" />
+
 * 📂 **GTK4 & Adwaita:** Guías de desarrollo nativo para principiantes. [Próximamente]
 * ⚙️ **Dotfiles:** Mi workflow de Niri/Noctalia aplicado en Solus. [Próximamente]
+
 * 🐍 **PyGobject:** Manual de pygobject con lógica procedural. [En proceso...]
 
 ## 📊 GitHub Stats
