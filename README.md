@@ -1,4 +1,4 @@
-[👤 Sobre Mí](#-sobre-mí) | [💻 Tech Stack](#-tech-stack--tools) | [🛠️ Soporte](#️-soporte-y-asesoría) | [📖 Manuales](#-documentación--manuales) | [🌐 Contacto](#-contacto-&--café)
+[👤 Sobre Mí](#-sobre-mí) | [💻 Tech Stack](#-tech-stack--tools) | [🛠️ Soporte](#️-soporte-y-asesoría) | [📖 Resultados](#-resultados) | [🌐 Contacto](#-contacto-y-soporte)
 
 > 🧑‍💻 *Entusiasta apasionado de GNU/Linux y Desarrollador enfocado en el minimalismo y la eficiencia técnica* 🚀
 
@@ -41,7 +41,7 @@ Ofrezco apoyo técnico especializado y optimización en los siguientes ecosistem
 
 ---
 
-## 📖 Productos de mi persona
+## 📖 Resultados
 *Actualmente organizando y subiendo guías técnicas profesionales:*
 * 🔥 **Solus:** [Repositorio especializado para usuarios de Solus.](https://github.com/DinimixisDEMZ/Custom-Solus-Repo)    
 * 🚀 **Planificadores:** Una herramienta de gestión de planificadores de kernel que usa scxctl, sysbench y lógica en bash para optimización. [Profundo Desarrollo]
@@ -61,5 +61,5 @@ Ofrezco apoyo técnico especializado y optimización en los siguientes ecosistem
   <img src="https://nirzak-streak-stats.vercel.app/?user=DinimixisDEMZ&theme=apprentice&hide_border=false" alt="Streak" />
 </p>
 
-## 🌐 Contacto & Café
+## 🌐 Contacto y Soporte
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinimixis@vivaldi.net) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dinimixisdemz)
