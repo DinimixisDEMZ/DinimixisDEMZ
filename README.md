@@ -40,8 +40,6 @@ Ofrezco apoyo y optimización en los siguientes ecosistemas.
 ### 🎨 Creative & Media
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23171717.svg?style=for-the-badge&logo=ffmpeg&logoColor=5cb85c) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
 
----
-
 ## 📖 Resultados
 
 * 🔥 **Solus:** [Repositorio custom para usuarios de Solus.](https://github.com/DinimixisDEMZ/Custom-Solus-Repo): Paquetes extras no disponibles en el repositorio Polaris  
