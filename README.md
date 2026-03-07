@@ -1,21 +1,18 @@
-[👤 Sobre Mí](#-sobre-mí) | [💻 Tech Stack](#-tech-stack--tools) | [🛠️ Soporte](#️-soporte-y-asesoría) | [📖 Manuales](#-documentación--manuales) | [🌐 Contacto](#-contacto--apoyo)
+[👤 Sobre Mí](#-sobre-mí) | [💻 Tech Stack](#-tech-stack--tools) | [🛠️ Soporte](#️-soporte-y-asesoría) | [📖 Manuales](#-documentación--manuales) | [🌐 Contacto](#-contacto-&--café)
 
-### 🧑‍💻 *Entusiasta apasionado de GNU/Linux y Desarrollador enfocado en el minimalismo y la eficiencia técnica* 🚀
-
----
+> 🧑‍💻 *Entusiasta apasionado de GNU/Linux y Desarrollador enfocado en el minimalismo y la eficiencia técnica* 🚀
 
 ## 👤 Sobre Mí
-> **Actualidad:** Profundizando en el desarrollo de interfaces con **GTK4**, filosofía de diseño **GNOME (Adwaita)**, la eficiencia moderna de Solus e AerynOS y aprendiendo sobre planificadores de kernels para mayor eficiencia mediante **scx_scheds**. 🐦‍🔥
+> **Actualidad:** Profundizando en el desarrollo de interfaces con **[GTK4](https://www.gtk.org/)/[LibAdwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/)**, filosofía de diseño [**GNOME**](https://developer.gnome.org/hig/), la eficiencia moderna de [Solus](getsol.us) e [AerynOS](https://aerynos.com/) y aprendiendo sobre planificadores de kernels para mayor eficiencia mediante [**scx_scheds**](https://wiki.cachyos.org/configuration/sched-ext/). 🐦‍🔥
 
 | Eje | Configuración y Preferencias |
 | :--- | :--- |
 | **💻 Hardware** | Ideapad Slim 3i |
 | **🐧 Sistema** | **Solus OS** (Independiente / eopkg) |
-| **🖼️ Interfaz** | **GNOME**(DE) + **Niri**(WM) & **Noctalia** (quickshell)|
-| **📝 Editores** | **CodeOSS** (IDE) \| **Neovim + Neovide** (Terminal IDE) \| ghostty & ptyxis (Terminal) \| **Apostrophe** (MD) |
-| **🎯 Intereses** | Evolución personal, Software Libre, Música, Arte y **Geometry Dash** 😈 |
-
----
+| **🖼️ Interfaz** | [**GNOME**](https://gnome.org)(DE) + [**Niri**](https://github.com/niri-wm/niri)(WM) & [**Noctalia**](https://github.com/noctalia-dev) (quickshell)|
+| **📝 Editores** | [**CodeOSS**](https://github.com/code-oss-dev/code) (IDE) \| **[Neovim](https://neovim.io/) + [Neovide](https://neovide.dev/)** (Terminal IDE) \| ghostty & ptyxis (Terminal) \| **Apostrophe** (MD) |
+| **🎯 Intereses** | Evolución personal, FOSS, Música, Arte y **Geometry Dash** 😈 |
+| **🔍 Objetivos** | Rust, Planificadores y Simplificación |
 
 ## 💻 Tech Stack & Tools
 
@@ -30,8 +27,6 @@
 
 ### 🎨 Creative & Media
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23171717.svg?style=for-the-badge&logo=ffmpeg&logoColor=5cb85c) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
-
----
 
 ## 🛠️ Soporte y Asesoría
 Ofrezco apoyo técnico especializado y optimización en los siguientes ecosistemas. 
@@ -49,12 +44,10 @@ Ofrezco apoyo técnico especializado y optimización en los siguientes ecosistem
 
 ## 📖 Documentación & Manuales
 *Actualmente organizando y subiendo guías técnicas profesionales:*
-* 🔥 **Solus Specialized:** Repositorio especializado para usuarios de Solus.
+* 🔥 **Solus:** [Repositorio especializado para usuarios de Solus.](https://github.com/DinimixisDEMZ/Custom-Solus-Repo)
 * 📂 **GTK4 & Adwaita:** Guías de desarrollo nativo para principiantes. [Próximamente]
 * ⚙️ **Dotfiles:** Mi workflow de Niri/Noctalia aplicado en Solus. [Próximamente]
 * 🐍 **PyGobject:** Manual de pygobject con lógica procedural. [En proceso...]
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -64,7 +57,5 @@ Ofrezco apoyo técnico especializado y optimización en los siguientes ecosistem
   <img src="https://nirzak-streak-stats.vercel.app/?user=DinimixisDEMZ&theme=apprentice&hide_border=false" alt="Streak" />
 </p>
 
----
-
-## 🌐 Contacto & Apoyo
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinimixis@vivaldi.net) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dinimixisdemz) [![Visit Count](https://visitcount.itsvg.in/api?id=DinimixisDEMZ&icon=0&color=0)](https://github.com/DinimixisDEMZ)
+## 🌐 Contacto & Café
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinimixis@vivaldi.net) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dinimixisdemz)
