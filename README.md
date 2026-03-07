@@ -13,6 +13,19 @@
 | **📝 Editores** | [**CodeOSS**](https://github.com/code-oss-dev/code) (IDE) \| **[Neovim](https://neovim.io/) + [Neovide](https://neovide.dev/)** (Terminal IDE) \| ghostty & ptyxis (Terminal) \| **Apostrophe** (MD) |
 | **🎯 Intereses** | Evolución personal, FOSS, Música, Arte y **Geometry Dash** 😈 |
 
+## 🛠️ Soporte y Asesoría
+Ofrezco apoyo técnico especializado y optimización en los siguientes ecosistemas. 
+
+**Distribuciones Soportadas:**
+
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://debian.org/) [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/) [![Solus](https://img.shields.io/badge/Solus-5294e2?style=for-the-badge&logo=linux&logoColor=white)](https://getsol.us/) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Zorin](https://img.shields.io/badge/Zorin_OS-0CC0DF?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/) [![Mageia](https://img.shields.io/badge/Mageia-2583AD?style=for-the-badge&logo=linux&logoColor=white)](https://www.mageia.org/)
+
+* **Administración:** Gestión de paquetes (`APT`, `DNF`, `Pacman`, `eopkg`, `RPM Drake`).
+* **Virtualización:** Implementación de contenedores con `Docker`, `Podman` y `Distrobox`.
+* **Optimización Extrema:** Ajustes de kernel mediante `scxctl` (Sched-ext), `Tuned` y `PowerProfilesDaemon`.
+* **Resource Management:** Configuración avanzada de `zRAM`, gestión de gráficas `corectrl` y limpieza de espacio `gdu`.
+* **Desarrollo:** Flujos de trabajo en `Python`, `C`, `C++` y control de versiones con `Git`.
+
 ## 💻 Tech Stack & Tools
 
 ### 👨‍💻 Lenguajes de Programación
@@ -27,31 +40,17 @@
 ### 🎨 Creative & Media
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23171717.svg?style=for-the-badge&logo=ffmpeg&logoColor=5cb85c) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
 
-## 🛠️ Soporte y Asesoría
-Ofrezco apoyo técnico especializado y optimización en los siguientes ecosistemas. 
-
-**Distribuciones Soportadas:**
-
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://debian.org/) [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/) [![Solus](https://img.shields.io/badge/Solus-5294e2?style=for-the-badge&logo=linux&logoColor=white)](https://getsol.us/) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Zorin](https://img.shields.io/badge/Zorin_OS-0CC0DF?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/) [![Mageia](https://img.shields.io/badge/Mageia-2583AD?style=for-the-badge&logo=linux&logoColor=white)](https://www.mageia.org/)
-
-* **Administración:** Gestión de paquetes (`APT`, `DNF`, `Pacman`, `eopkg`, `RPM Drake`).
-* **Virtualización:** Implementación de contenedores con `Docker`, `Podman` y `Distrobox`.
-* **Optimización Extrema:** Ajustes de kernel mediante `scxctl` (Sched-ext), `Tuned` y `PowerProfilesDaemon`.
-* **Resource Management:** Configuración avanzada de `zRAM`, gestión de gráficas `corectrl` y limpieza de espacio `gdu`.
-* **Desarrollo:** Flujos de trabajo en `Python`, `C`, `C++` y control de versiones con `Git`.
-
 ---
 
 ## 📖 Resultados
-*Actualmente organizando y subiendo guías técnicas profesionales:*
-* 🔥 **Solus:** [Repositorio especializado para usuarios de Solus.](https://github.com/DinimixisDEMZ/Custom-Solus-Repo)    
+
+* 🔥 **Solus:** [Repositorio custom para usuarios de Solus.](https://github.com/DinimixisDEMZ/Custom-Solus-Repo): Paquetes extras no disponibles en el repositorio Polaris  
 * 🚀 **Planificadores:** Una herramienta de gestión de planificadores de kernel que usa scxctl, sysbench y lógica en bash para optimización. [Profundo Desarrollo]
 
 <img width="900" height="900" alt="Captura desde 2026-02-08 15-11-55" src="https://github.com/user-attachments/assets/6a6f771f-7810-4db0-beba-d3cb9e7ae9ec" />
 
 * 📂 **GTK4 & Adwaita:** Guías de desarrollo nativo para principiantes. [Próximamente]
 * ⚙️ **Dotfiles:** Mi workflow de Niri/Noctalia aplicado en Solus. [Próximamente]
-
 * 🐍 **PyGobject:** Manual de pygobject con lógica procedural. [En proceso...]
 
 ## 📊 GitHub Stats
