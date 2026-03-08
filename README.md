@@ -8,7 +8,7 @@
 | Eje | Configuración y Preferencias |
 | :--- | :--- |
 | **💻 Hardware** | Ideapad Slim 3i |
-| **🐧 Sistema** | **Solus OS** (Independiente / eopkg) |
+| **🐧 Sistema** | [**Solus**](https://getsol.us) (Independiente / eopkg) |
 | **🖼️ Interfaz** | [**GNOME**](https://gnome.org)(DE) + [**Niri**](https://github.com/niri-wm/niri)(WM) & [**Noctalia**](https://github.com/noctalia-dev) (quickshell)|
 | **📝 Editores** | [**CodeOSS**](https://github.com/code-oss-dev/code) (IDE) \| **[Neovim](https://neovim.io/) + [Neovide](https://neovide.dev/)** (Terminal IDE) \| ghostty & ptyxis (Terminal) \| **Apostrophe** (MD) |
 | **🎯 Intereses** | Evolución personal, FOSS, Música, Arte y **Geometry Dash** 😈 |
