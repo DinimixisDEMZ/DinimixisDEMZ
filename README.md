@@ -8,7 +8,7 @@
 | Eje | Configuración y Preferencias |
 | :--- | :--- |
 | [![](https://img.shields.io/badge/Hardware-E2231A?style=for-the-badge&logo=Lenovo&logoColor=white)](https://www.lenovo.com/) | **Ideapad** `Slim 3i` |
-| [![](https://img.shields.io/badge/Sistema-5294E2?style=for-the-badge&logo=Solus&logoColor=white)](https://getsol.us/) | [**Solus**](https://getsol.us) `(Independiente / Rolling)` |
+| [![](https://img.shields.io/badge/Sistemas-5294E2?style=for-the-badge&logo=Solus&logoColor=white)](https://getsol.us/) | [**Solus**](https://getsol.us) `(Independiente / Rolling)` |
 | [![](https://img.shields.io/badge/Interfaz-4A86CF?style=for-the-badge&logo=GNOME&logoColor=white)](https://gnome.org/) | [**GNOME**](https://gnome.org) `(DE)` + [**Niri**](https://github.com/niri-wm/niri) `(WM)` & [**Noctalia**](https://github.com/noctalia-dev) `(quickshell)`|
 | [![](https://img.shields.io/badge/Editores-3551F3?style=for-the-badge&logo=Ghostty&logoColor=white)](https://ghostty.org) | [**CodeOSS**](https://github.com/code-oss-dev/code) `(IDE)` \| **[Neovim](https://neovim.io/) + [Neovide](https://neovide.dev/)** `(Terminal IDE)` \| [**ghostty**](https://ghostty.org) & [**ptyxis**](https://flathub.org/en/apps/app.devsuite.Ptyxis) `(Terminal)` \| [**Apostrophe**](https://flathub.org/en/apps/org.gnome.gitlab.somas.Apostrophe) `(MD)` |
 | [![](https://img.shields.io/badge/Intereses-8D7ACF?style=for-the-badge&logo=Geode&logoColor=white)](https://geode-sdk.org) | Evolución personal, FOSS, Música, Arte y [**Geometry Dash**](https://www.robtopgames.com/) `😈` |
