@@ -53,9 +53,6 @@ Ofrezco apoyo y optimización en los siguientes ecosistemas.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DinimixisDEMZ&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinimixisDEMZ&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Langs" height="170px" />
-  <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=DinimixisDEMZ&theme=apprentice&hide_border=false" alt="Streak" />
 </p>
 
