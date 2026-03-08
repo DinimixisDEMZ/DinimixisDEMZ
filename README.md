@@ -42,7 +42,7 @@ Ofrezco apoyo y optimización en los siguientes ecosistemas.
 
 ## 📖 Resultados
 
-* 🔥 **Solus:** [Repositorio custom para usuarios de Solus.](https://github.com/DinimixisDEMZ/Custom-Solus-Repo): Paquetes extras no disponibles en el repositorio Polaris  
+* 🔥 **Solus:** [Noctalia para Solus](https://github.com/DinimixisDEMZ/Noctalia-For-Solus): Paquetes extras no disponibles en el repositorio Polaris  
 * 🚀 **Planificadores:** Una herramienta de gestión de planificadores de kernel que usa scxctl, sysbench y lógica en bash para optimización. [Profundo Desarrollo]
 
 <img width="900" height="900" alt="Captura desde 2026-02-08 15-11-55" src="https://github.com/user-attachments/assets/6a6f771f-7810-4db0-beba-d3cb9e7ae9ec" />
