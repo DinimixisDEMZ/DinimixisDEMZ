@@ -10,11 +10,11 @@
 | **💻 Hardware** | Ideapad Slim 3i |
 | **🐧 Sistema** | [**Solus**](https://getsol.us) (Independiente / eopkg) |
 | **🖼️ Interfaz** | [**GNOME**](https://gnome.org)(DE) + [**Niri**](https://github.com/niri-wm/niri)(WM) & [**Noctalia**](https://github.com/noctalia-dev) (quickshell)|
-| **📝 Editores** | [**CodeOSS**](https://github.com/code-oss-dev/code) (IDE) \| **[Neovim](https://neovim.io/) + [Neovide](https://neovide.dev/)** (Terminal IDE) \| ghostty & ptyxis (Terminal) \| **Apostrophe** (MD) |
-| **🎯 Intereses** | Evolución personal, FOSS, Música, Arte y **Geometry Dash** 😈 |
+| **📝 Editores** | [**CodeOSS**](https://github.com/code-oss-dev/code) (IDE) \| **[Neovim](https://neovim.io/) + [Neovide](https://neovide.dev/)** (Terminal IDE) \| [**ghostty**](https://ghostty.org) & [**ptyxis**](https://flathub.org/en/apps/app.devsuite.Ptyxis) (Terminal) \| [**Apostrophe**](https://flathub.org/en/apps/org.gnome.gitlab.somas.Apostrophe) (MD) |
+| **🎯 Intereses** | Evolución personal, FOSS, Música, Arte y [**Geometry Dash**](https://www.robtopgames.com/) 😈 |
 
 ## 🛠️ Soporte y Asesoría
-Ofrezco apoyo y optimización en los siguientes ecosistemas. 
+Ofrezco apoyo y optimización en los siguientes ecosistemas.
 
 **Distribuciones Soportadas:**
 
