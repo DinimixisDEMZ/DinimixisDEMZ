@@ -1,17 +1,17 @@
 ##### [👤 Sobre Mí](#-sobre-mí) | [💻 Tech Stack](#-tech-stack--tools) | [🛠️ Soporte](#️-soporte-y-asesoría) | [📖 Resultados](#-resultados) | [🌐 Contacto](#-contacto-y-soporte) | [🦉 Noctalia para Solus](https://github.com/DinimixisDEMZ/Noctalia-For-Solus/blob/master/README.es.md)
 
-> 🧑‍💻 *Entusiasta apasionado de GNU/Linux y Desarrollador enfocado en el minimalismo y la eficiencia técnica* 🚀
+> *Entusiasta apasionado de GNU/Linux y Desarrollador enfocado en el minimalismo y la eficiencia técnica*
 
 ## 👤 Sobre Mí
 > **Actualidad:** Profundizando en el desarrollo de interfaces con **[GTK4](https://www.gtk.org/)/[LibAdwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/)**, filosofía de diseño [**GNOME**](https://developer.gnome.org/hig/), la eficiencia moderna de [**Solus**](getsol.us) e [**AerynOS**](https://aerynos.com/) y aprendiendo sobre planificadores de kernels para mayor eficiencia mediante [**scx_scheds**](https://wiki.cachyos.org/configuration/sched-ext/). 🐦‍🔥
 
 | Eje | Configuración y Preferencias |
 | :--- | :--- |
-| **Hardware** | Ideapad Slim 3i |
-| **Sistema** | [**Solus**](https://getsol.us) (Independiente / eopkg) |
-| **Interfaz** | [**GNOME**](https://gnome.org)(DE) + [**Niri**](https://github.com/niri-wm/niri)(WM) & [**Noctalia**](https://github.com/noctalia-dev) (quickshell)|
-| **Editores** | [**CodeOSS**](https://github.com/code-oss-dev/code) (IDE) \| **[Neovim](https://neovim.io/) + [Neovide](https://neovide.dev/)** (Terminal IDE) \| [**ghostty**](https://ghostty.org) & [**ptyxis**](https://flathub.org/en/apps/app.devsuite.Ptyxis) (Terminal) \| [**Apostrophe**](https://flathub.org/en/apps/org.gnome.gitlab.somas.Apostrophe) (MD) |
-| **Intereses** | Evolución personal, FOSS, Música, Arte y [**Geometry Dash**](https://www.robtopgames.com/) 😈 |
+| ![](https://img.shields.io/badge/Hardware-E2231A?style=for-the-badge&logo=Lenovo&logoColor=white) | Ideapad Slim 3i |
+| ![](https://img.shields.io/badge/Sistema-5294E2?style=for-the-badge&logo=Solus&logoColor=white) | [**Solus**](https://getsol.us) (Independiente / eopkg) |
+| ![](https://img.shields.io/badge/Interfaz-4A86CF?style=for-the-badge&logo=GNOME&logoColor=white) | [**GNOME**](https://gnome.org)(DE) + [**Niri**](https://github.com/niri-wm/niri)(WM) & [**Noctalia**](https://github.com/noctalia-dev) (quickshell)|
+| ![](https://img.shields.io/badge/Editores-3551F3?style=for-the-badge&logo=Ghostty&logoColor=white) | [**CodeOSS**](https://github.com/code-oss-dev/code) (IDE) \| **[Neovim](https://neovim.io/) + [Neovide](https://neovide.dev/)** (Terminal IDE) \| [**ghostty**](https://ghostty.org) & [**ptyxis**](https://flathub.org/en/apps/app.devsuite.Ptyxis) (Terminal) \| [**Apostrophe**](https://flathub.org/en/apps/org.gnome.gitlab.somas.Apostrophe) (MD) |
+| ![](https://img.shields.io/badge/Intereses-8D7ACF?style=for-the-badge&logo=Geode&logoColor=white) | Evolución personal, FOSS, Música, Arte y [**Geometry Dash**](https://www.robtopgames.com/) 😈 |
 
 ## 🛠️ Soporte y Asesoría
 Ofrezco apoyo y optimización en los siguientes ecosistemas.
