@@ -7,11 +7,11 @@
 
 | Eje | Configuración y Preferencias |
 | :--- | :--- |
-| **💻 Hardware** | Ideapad Slim 3i |
-| **🐧 Sistema** | [**Solus**](https://getsol.us) (Independiente / eopkg) |
-| **🖼️ Interfaz** | [**GNOME**](https://gnome.org)(DE) + [**Niri**](https://github.com/niri-wm/niri)(WM) & [**Noctalia**](https://github.com/noctalia-dev) (quickshell)|
-| **📝 Editores** | [**CodeOSS**](https://github.com/code-oss-dev/code) (IDE) \| **[Neovim](https://neovim.io/) + [Neovide](https://neovide.dev/)** (Terminal IDE) \| [**ghostty**](https://ghostty.org) & [**ptyxis**](https://flathub.org/en/apps/app.devsuite.Ptyxis) (Terminal) \| [**Apostrophe**](https://flathub.org/en/apps/org.gnome.gitlab.somas.Apostrophe) (MD) |
-| **🎯 Intereses** | Evolución personal, FOSS, Música, Arte y [**Geometry Dash**](https://www.robtopgames.com/) 😈 |
+| **Hardware** | Ideapad Slim 3i |
+| **Sistema** | [**Solus**](https://getsol.us) (Independiente / eopkg) |
+| **Interfaz** | [**GNOME**](https://gnome.org)(DE) + [**Niri**](https://github.com/niri-wm/niri)(WM) & [**Noctalia**](https://github.com/noctalia-dev) (quickshell)|
+| **Editores** | [**CodeOSS**](https://github.com/code-oss-dev/code) (IDE) \| **[Neovim](https://neovim.io/) + [Neovide](https://neovide.dev/)** (Terminal IDE) \| [**ghostty**](https://ghostty.org) & [**ptyxis**](https://flathub.org/en/apps/app.devsuite.Ptyxis) (Terminal) \| [**Apostrophe**](https://flathub.org/en/apps/org.gnome.gitlab.somas.Apostrophe) (MD) |
+| **Intereses** | Evolución personal, FOSS, Música, Arte y [**Geometry Dash**](https://www.robtopgames.com/) 😈 |
 
 ## 🛠️ Soporte y Asesoría
 Ofrezco apoyo y optimización en los siguientes ecosistemas.
@@ -28,28 +28,28 @@ Ofrezco apoyo y optimización en los siguientes ecosistemas.
 
 ## 💻 Tech Stack & Tools
 
-### 👨‍💻 Lenguajes de Programación
+### Lenguajes de Programación
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/tutorial/c++-tutorial.html?inl=nv) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cprogramming.com/tutorial/c-tutorial.html?inl=nv) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/bash.html) [![Zsh](https://img.shields.io/badge/zsh-%23121011.svg?style=for-the-badge&logo=zsh&logoColor=white)](https://www.zsh.org)
 
-### 🛠️ Development, UI & Tools
+### Development, UI & Tools
 [![GTK](https://img.shields.io/badge/GTK4-7fe719?style=for-the-badge&logo=gtk&logoColor=fff)](https://www.gtk.org/) [![GNOME](https://img.shields.io/badge/GNOME-4a86cf?style=for-the-badge&logo=gnome&logoColor=white)](https://www.gnome.org/) [![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/basic-syntax/)
 
-### 🐋 Contenedores & Virtualización
+### Contenedores & Virtualización
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Podman](https://img.shields.io/badge/podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)](https://podman.io/https://distrobox.it/) [![Distrobox](https://img.shields.io/badge/Distrobox-FCC624?style=for-the-badge&logo=distrobox&logoColor=black)](https://distrobox.it/)
 
-### 🎨 Creative & Media
+### Creative & Media
 [![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=white)](https://www.gimp.org/) [![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)](https://inkscape.org) [![FFmpeg](https://img.shields.io/badge/FFmpeg-%23171717.svg?style=for-the-badge&logo=ffmpeg&logoColor=5cb85c)](https://ffmpeg.org/) [![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)](https://jellyfin.org)
 
 ## 📖 Resultados
 
-* 🔥 **Solus:** [Noctalia para Solus](https://github.com/DinimixisDEMZ/Noctalia-For-Solus): Paquetes extras no disponibles en el repositorio Polaris  
-* 🚀 **Planificadores:** Una herramienta de gestión de planificadores de kernel que usa scxctl, sysbench y lógica en bash para optimización. [Profundo Desarrollo]
+* **Solus:** [Noctalia para Solus](https://github.com/DinimixisDEMZ/Noctalia-For-Solus): Paquetes extras no disponibles en el repositorio Polaris  
+* **Planificadores:** Una herramienta de gestión de planificadores de kernel que usa scxctl, sysbench y lógica en bash para optimización. [Profundo Desarrollo]
 
 <img width="900" height="900" alt="Captura desde 2026-02-08 15-11-55" src="https://github.com/user-attachments/assets/6a6f771f-7810-4db0-beba-d3cb9e7ae9ec" />
 
-* 📂 **GTK4 & Adwaita:** Guías de desarrollo nativo para principiantes. [Próximamente]
-* ⚙️ **Dotfiles:** Mi workflow de Niri/Noctalia aplicado en Solus. [Próximamente]
-* 🐍 **PyGobject:** Manual de pygobject con lógica procedural. [En proceso...]
+* **GTK4 & Adwaita:** Guías de desarrollo nativo para principiantes. [Próximamente]
+* **Dotfiles:** Mi workflow de Niri/Noctalia aplicado en Solus. [Próximamente]
+* **PyGobject:** Manual de pygobject con lógica procedural. [En proceso...]
 
 ## 📊 GitHub Stats
 <p align="center">
