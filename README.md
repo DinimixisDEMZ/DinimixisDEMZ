@@ -7,11 +7,11 @@
 
 | Eje | Configuración y Preferencias |
 | :--- | :--- |
-| [![](https://img.shields.io/badge/Hardware-E2231A?style=for-the-badge&logo=Lenovo&logoColor=white)](https://www.lenovo.com/) | **Ideapad** Slim 3i |
-| [![](https://img.shields.io/badge/Sistema-5294E2?style=for-the-badge&logo=Solus&logoColor=white)](https://getsol.us/) | [**Solus**](https://getsol.us) (Independiente / eopkg) |
-| [![](https://img.shields.io/badge/Interfaz-4A86CF?style=for-the-badge&logo=GNOME&logoColor=white)](https://gnome.org/) | [**GNOME**](https://gnome.org)(DE) + [**Niri**](https://github.com/niri-wm/niri)(WM) & [**Noctalia**](https://github.com/noctalia-dev) (quickshell)|
-| [![](https://img.shields.io/badge/Editores-3551F3?style=for-the-badge&logo=Ghostty&logoColor=white)](https://ghostty.org) | [**CodeOSS**](https://github.com/code-oss-dev/code) (IDE) \| **[Neovim](https://neovim.io/) + [Neovide](https://neovide.dev/)** (Terminal IDE) \| [**ghostty**](https://ghostty.org) & [**ptyxis**](https://flathub.org/en/apps/app.devsuite.Ptyxis) (Terminal) \| [**Apostrophe**](https://flathub.org/en/apps/org.gnome.gitlab.somas.Apostrophe) (MD) |
-| [![](https://img.shields.io/badge/Intereses-8D7ACF?style=for-the-badge&logo=Geode&logoColor=white)](https://geode-sdk.org) | Evolución personal, FOSS, Música, Arte y [**Geometry Dash**](https://www.robtopgames.com/) 😈 |
+| [![](https://img.shields.io/badge/Hardware-E2231A?style=for-the-badge&logo=Lenovo&logoColor=white)](https://www.lenovo.com/) | **Ideapad** `Slim 3i` |
+| [![](https://img.shields.io/badge/Sistema-5294E2?style=for-the-badge&logo=Solus&logoColor=white)](https://getsol.us/) | [**Solus**](https://getsol.us) `(Independiente / Rolling)` |
+| [![](https://img.shields.io/badge/Interfaz-4A86CF?style=for-the-badge&logo=GNOME&logoColor=white)](https://gnome.org/) | [**GNOME**](https://gnome.org) `(DE)` + [**Niri**](https://github.com/niri-wm/niri) `(WM)` & [**Noctalia**](https://github.com/noctalia-dev) `(quickshell)`|
+| [![](https://img.shields.io/badge/Editores-3551F3?style=for-the-badge&logo=Ghostty&logoColor=white)](https://ghostty.org) | [**CodeOSS**](https://github.com/code-oss-dev/code) `(IDE)` \| **[Neovim](https://neovim.io/) + [Neovide](https://neovide.dev/)** `(Terminal IDE)` \| [**ghostty**](https://ghostty.org) & [**ptyxis**](https://flathub.org/en/apps/app.devsuite.Ptyxis) `(Terminal)` \| [**Apostrophe**](https://flathub.org/en/apps/org.gnome.gitlab.somas.Apostrophe) `(MD)` |
+| [![](https://img.shields.io/badge/Intereses-8D7ACF?style=for-the-badge&logo=Geode&logoColor=white)](https://geode-sdk.org) | Evolución personal, FOSS, Música, Arte y [**Geometry Dash**](https://www.robtopgames.com/) `😈` |
 
 ## 🛠️ Soporte y Asesoría
 Ofrezco apoyo y optimización en los siguientes ecosistemas.
@@ -22,7 +22,7 @@ Ofrezco apoyo y optimización en los siguientes ecosistemas.
 
 * **Administración:** Gestión de paquetes (`APT`, `DNF`, `Pacman`, `eopkg`, `RPM Drake`).
 * **Virtualización:** Implementación de contenedores con `Docker`, `Podman` y `Distrobox`.
-* **Optimización Extrema:** Ajustes de kernel mediante `scxctl` (Sched-ext), `Tuned` y `PowerProfilesDaemon`.
+* **Optimización Extrema:** Ajustes de kernel mediante `scxctl` `(Sched-ext)`, `Tuned` y `PowerProfilesDaemon`.
 * **Resource Management:** Configuración avanzada de `zRAM`, gestión de gráficas `corectrl` y limpieza de espacio `gdu`.
 * **Desarrollo:** Flujos de trabajo en `Python`, `C`, `C++` y control de versiones con `Git`.
 
@@ -42,14 +42,14 @@ Ofrezco apoyo y optimización en los siguientes ecosistemas.
 
 ## 📖 Resultados
 
-* **Solus:** [Noctalia para Solus](https://github.com/DinimixisDEMZ/Noctalia-For-Solus): Paquetes extras no disponibles en el repositorio Polaris  
-* **Planificadores:** Una herramienta de gestión de planificadores de kernel que usa scxctl, sysbench y lógica en bash para optimización. [Profundo Desarrollo]
+* **Solus:** [Noctalia para Solus](https://github.com/DinimixisDEMZ/Noctalia-For-Solus): Paquetes extras no disponibles en el repositorio Polaris `[Disponible]`
+* **Planificadores:** Una herramienta de gestión de planificadores de kernel que usa scxctl, sysbench y lógica en bash para optimización. `[Profundo Desarrollo]`
 
 <img width="900" height="900" alt="Captura desde 2026-02-08 15-11-55" src="https://github.com/user-attachments/assets/6a6f771f-7810-4db0-beba-d3cb9e7ae9ec" />
 
-* **GTK4 & Adwaita:** Guías de desarrollo nativo para principiantes. [Próximamente]
-* **Dotfiles:** Mi workflow de Niri/Noctalia aplicado en Solus. [Próximamente]
-* **PyGobject:** Manual de pygobject con lógica procedural. [En proceso...]
+* **GTK4 & Adwaita:** Guías de desarrollo nativo para principiantes. `[Próximamente]`
+* **Dotfiles:** Mi workflow de Niri/Noctalia aplicado en Solus. `[Próximamente]`
+* **PyGobject:** Manual de pygobject con lógica procedural. `[En proceso...]`
 
 ## 📊 GitHub Stats
 <p align="center">
