@@ -20,7 +20,7 @@ Ofrezco apoyo y optimización en los siguientes ecosistemas.
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://debian.org/) [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/) [![Solus](https://img.shields.io/badge/Solus-5294e2?style=for-the-badge&logo=solus&logoColor=white)](https://getsol.us/) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Zorin](https://img.shields.io/badge/Zorin_OS-0CC0DF?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/) [![Mageia](https://img.shields.io/badge/Mageia-2583AD?style=for-the-badge&logo=linux&logoColor=white)](https://www.mageia.org/)
 
-* **Administración:** Gestión de paquetes (`APT`, `DNF`, `Pacman`, `eopkg`, `RPM Drake`).
+* **Administración:** Gestión de paquetes (`APT`, `DNF`, `Pacman`, `EOPKG`, `RPM Drake`).
 * **Virtualización:** Implementación de contenedores con `Docker`, `Podman` y `Distrobox`.
 * **Optimización Extrema:** Ajustes de kernel mediante `scxctl` `(Sched-ext)`, `Tuned` y `PowerProfilesDaemon`.
 * **Resource Management:** Configuración avanzada de `zRAM`, gestión de gráficas `corectrl` y limpieza de espacio `gdu`.
