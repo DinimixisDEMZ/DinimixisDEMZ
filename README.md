@@ -14,7 +14,7 @@
 | [![](https://img.shields.io/badge/Intereses-8D7ACF?style=for-the-badge&logo=Geode&logoColor=white)](https://geode-sdk.org) | Evolución personal, FOSS, Música, Arte y [**Geometry Dash**](https://www.robtopgames.com/) `😈` |
 
 ## 🛠️ Soporte y Asesoría
-Ofrezco apoyo y optimización en los siguientes ecosistemas.
+> Ofrezco apoyo y optimización en los siguientes ecosistemas.
 
 **Distribuciones Soportadas:**
 
