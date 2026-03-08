@@ -1,4 +1,4 @@
-[👤 Sobre Mí](#-sobre-mí) | [💻 Tech Stack](#-tech-stack--tools) | [🛠️ Soporte](#️-soporte-y-asesoría) | [📖 Resultados](#-resultados) | [🌐 Contacto](#-contacto-y-soporte)
+[👤 Sobre Mí](#-sobre-mí) | [💻 Tech Stack](#-tech-stack--tools) | [🛠️ Soporte](#️-soporte-y-asesoría) | [📖 Resultados](#-resultados) | [🌐 Contacto](#-contacto-y-soporte) | [🦉 Noctalia para Solus](https://github.com/DinimixisDEMZ/Noctalia-For-Solus)
 
 > 🧑‍💻 *Entusiasta apasionado de GNU/Linux y Desarrollador enfocado en el minimalismo y la eficiencia técnica* 🚀
 
